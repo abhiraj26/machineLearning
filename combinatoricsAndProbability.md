@@ -7,4 +7,13 @@ Module 1 coverage:
 
 Module 2 coverage: 
 1. Combinatorics : sequences of length k in which order doesn't matter to be placed by n symbols n*(n-1)..(n-k+1) divided by k as everything will be repeated k times -> nCk => (n k) => n choose k. Combinations are also called as substes.
-2. 
+n C k = n C n-k
+n C k = n!/(k! * (n-k)!)
+2. Pascal's Triangle : nCk = n-1 C k-1 + n-1 C k
+nC0 +.. nCk + .. nCn = 2^n
+0  = nEk(Even) = nOk (Odd) = (-1)^k nCk  , n>0
+nC1 + nC3 + ... = nc0 + nC2 + ..
+(a+b)^n = nC0a^n + ... nCk a^n-k b^k + .. + nCn b^n
+
+Module 3 coverage:
+1. 
