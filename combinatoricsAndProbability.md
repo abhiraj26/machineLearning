@@ -26,10 +26,19 @@ Module 4 coverage: Probability
 
 Paradox of probability theory:- Values actually become more equivalent to its probability after a long set of iterations. 
 Galton Board:- Pascal triangle problem
-Probability theory -> Distinction between mathematical and natural science. We assume independence and equally likely while computing probability.
+Probability theory -> Distinction between mathematical and natural science. We assume <b>independence and equally likely</b> while computing probability.
 
 Terminologies:
 Probability Space: All outcomes
 Event: Some outcome(favourable)
 Probability: (#favorable)/total events
 
+3 types of distribution in probability: (Other than equally likely!)
+1. Non-Uniform distributions
+2. Unknow distributions
+3. Continous distributions
+
+Probility cases:
+1. Non Equiprobable Outcmoes. 
+2. Disjoint set of outcomes || Not disjoint set.
+3. Sequentional Choice
