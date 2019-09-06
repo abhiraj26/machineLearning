@@ -38,7 +38,7 @@ Probability: (#favorable)/total events
 2. Unknow distributions
 3. Continous distributions
 
-Probility cases:
+Probability cases:
 1. Non Equiprobable Outcmoes. 
 2. Disjoint set of outcomes || Not disjoint set.
 3. Sequentional Choice
