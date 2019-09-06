@@ -16,13 +16,15 @@ nC1 + nC3 + ... = nc0 + nC2 + ..
 (a+b)^n = nC0a^n + ... nCk a^n-k b^k + .. + nCn b^n
 
 Module 3 coverage: 
+
             With Repetitions              Without Repetitions
 Ordered          (Tuples)n^k              (Permutations) nPk
 Unordered   (k+n-1) C (n-1)               (Combinations) nCk
 
 Combinations With repetitions: (k+n-1)C(n-1) , n -> number of things to place, k-> total size, so (n-1) delimiter 
 
-Module 4 coverage: Probability
+Module 4 coverage: 
+Probability
 
 Paradox of probability theory:- Values actually become more equivalent to its probability after a long set of iterations. 
 Galton Board:- Pascal triangle problem
