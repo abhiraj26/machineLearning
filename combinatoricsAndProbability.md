@@ -17,7 +17,7 @@ nC1 + nC3 + ... = nc0 + nC2 + ..   <br>
 
 Module 3 coverage: 
 
-            With Repetitions                 |   Without Repetitions
+                         With Repetitions    |   Without Repetitions
             Ordered   | (Tuples)n^k          |   (Permutations) nPk
             Unordered | (k+n-1) C (n-1)      |   (Combinations) nCk
 
