@@ -41,6 +41,12 @@ Probability: (#favorable)/total events
 3. Continous distributions
 
 Probability cases:
-1. Non Equiprobable Outcmoes. 
+1. Non Equiprobable Outcomes. 
 2. Disjoint set of outcomes || Not disjoint set.
 3. Sequentional Choice
+
+Probability: If A and B are mutually exclusive P[A or B] = P[A] + P[B]. <br>
+P[A and B] = 0
+
+If A and B are not mutually exclusive, P[A or B] = P[A] + P[B] - P[A and B]
+
