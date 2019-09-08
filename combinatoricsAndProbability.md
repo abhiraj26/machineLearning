@@ -50,3 +50,19 @@ P[A and B] = 0
 
 If A and B are not mutually exclusive, P[A or B] = P[A] + P[B] - P[A and B]
 
+Question: Optimize the chances of getting a white ball. There are 2 bags and a total of 15 white and 15 black balls. Atleast one ball is required in each bag. 
+
+Answer: Put 1 white and 0 black in bag1 and put 14 white and 15 black in bag2. 
+
+Conditional probability: <br> 
+P[A and B] = P[A] * P[B/A] <br>
+
+False positive and false negative can easily be shown with the use of conditional probability. <br>
+
+P[A] = P[B].P[A/B] + (1-P[B]) P[A/ not B]   <br>
+
+Bayes theorem: <br>
+H for hypothesis, E for evidence
+(arbitary two events having a common probability space) 
+P[H/E] = P[H and E] / P[E] = (P[E/H] * P[H]) / P[E]
+
