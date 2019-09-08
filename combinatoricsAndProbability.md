@@ -75,4 +75,10 @@ Random Variables: They are usualy represented by upper case characters. It is us
 Eg. X = { 0 if head, 1 if tail } <br>
 
 <b>Expected value</b> is the average value of the random variable. <br>
+Expectation is calculated as a1p1 + a2p2 + .... (a(random variable) is the value of each outcome, p is probability of each outcome.)
+
+Linearity of Expectation: If f ang g are random variables on the same probability space then the following hold: <br>
+E(f+g) = E(f) + E(g) <br>
+
+Example of linearity expectation: Suppose we throw 2 dices, what is the probablity of expectation of sum of the 2 dices. <br>
 
