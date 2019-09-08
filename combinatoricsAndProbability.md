@@ -82,4 +82,6 @@ E(f+g) = E(f) + E(g) <br>
 
 Example of linearity expectation: Suppose we throw 2 dices, what is the probablity of expectation of sum of the 2 dices. <br>
 
-E(f+g) = E(3.5) + E(3.5) // For each dice, so expectation is 7.
+E(f+g) = E(3.5) + E(3.5) // For each dice, so expectation is 7.  <br>
+ 
+Markov's Inequality: Suppose that f is a non negative random variable. Then for any number a>0 we have <b>P[f>=a] <= Ef/a</b> <br>
