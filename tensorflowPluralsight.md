@@ -11,5 +11,5 @@ c. Self driving cards like how to check if the right lane is clear. <br>
 4. Computation Graph in tensorFlow which is generated and is passed as an input to the execution environment. The tensor flow is represented as a n-dimension structure called as tensors where if n=0 it is called Single value, n=1 it is called List of values, n=2 matrix and so on..  <br>
 5. VS Code and Python 
 
-<h3>Module 2: Intoducing TensorFlow</h3>
+<h3>Module 2: Introducing TensorFlow</h3>
 1. 
