@@ -13,3 +13,14 @@ c. Self driving cards like how to check if the right lane is clear. <br>
 
 <h3>Module 2: Introducing TensorFlow</h3>
 1. 
+
+
+
+
+
+Important References to study tensorflow:
+CS 20_Tensorflow for Deep Learning Research https://github.com/changwookjun/StudyBook/tree/master/DeepLearningBooks/CS%2020_Tensorflow%20for%20Deep%20Learning%20Research
+Installing tensorflow https://www.tensorflow.org/install
+TensorFlow official documentation https://www.tensorflow.org/versions/r1.13/api_docs/python/tf
+TensorBoard https://www.tensorflow.org/guide/summaries_and_tensorboard
+Graphs and sessions https://www.tensorflow.org/guide/graphs
