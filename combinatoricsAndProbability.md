@@ -85,4 +85,4 @@ E(f+g) = E(f) + E(g) <br>
 
 E(f+g) = E(3.5) + E(3.5) // For each dice, so expectation is 7.  <br>
  
-<b>Markov's Inequality:</b> Suppose that f is a non negative random variable. Then for any number a>0 we have <b>P[f>=a] <= Ef/a</b> <br>
+<b>Markov's Inequality:</b> Suppose that f is a non negative random variable. Then for any number a>0 we have <b>P[f>=a] <= E[f]/a</b> <br>
