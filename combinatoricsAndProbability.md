@@ -6,7 +6,7 @@
 5. k-Permutations : sequences of length k with no repetitions composed out of n symbols : n*(n-1)....*(n-k+1) = nPk <br>
 <br>
 <h2><b>Module 2 coverage: </b></h2>
-1. Combinatorics : sequences of length k in which order doesn't matter to be placed by n symbols n*(n-1)..(n-k+1) divided by k! as everything will be repeated k times -> nCk => (n k) => n choose k. Combinations are also called as substes. <br>
+1. Combinatorics : sequences of length k in which order doesn't matter to be placed by n symbols n*(n-1)..(n-k+1) divided by k! as everything will be repeated k times -> nCk => (n k) => n choose k. Combinations are also called as subsets. <br>
 n C k = n C n-k <br>
 n C k = n!/(k! * (n-k)!)  <br>
 2. Pascal's Triangle : nCk = n-1 C k-1 + n-1 C k  <br>
