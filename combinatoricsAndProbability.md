@@ -17,9 +17,9 @@ nC1 + nC3 + ... = nc0 + nC2 + ..   <br>
 
 <h2><b> Module 3 coverage: </b></h2>
 
-                         With Repetitions    |   Without Repetitions <br>
-            Ordered   | (Tuples) n^k         |   (Permutations) nPk  <br>
-            Unordered | (k+n-1) C (n-1)      |   (Combinations) nCk  <br>
+                         With Repetitions    |   Without Repetitions 
+            Ordered   | (Tuples) n^k         |   (Permutations) nPk  
+            Unordered | (k+n-1) C (n-1)      |   (Combinations) nCk  
 
 Combinations With repetitions: (k+n-1)C(n-1) , n -> number of things to place, k-> total size, so (n-1) delimiter. <br> 
 Suppose there are 3 items to be placed on a rack of 10. n = 3, k=10 (Repetitions allowed). So you will mark (n-1) 2 delimiters extra and add it to k positions. Now you simply have to choose these (n-1) delimiters positions in these n+k-1 options. 
