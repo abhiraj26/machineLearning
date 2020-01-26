@@ -39,7 +39,7 @@ Probability theory -> Distinction between mathematical and natural science. We a
 3 types of distribution in probability: (Other than equally likely!) <br>
 1. Non-Uniform distributions <br>
 2. Unknown distributions <br>
-3. Continous distributions <br>
+3. Continuous distributions <br>
 
 <b>Probability cases:</b> <br>
 1. Non Equiprobable Outcomes.  <br>
