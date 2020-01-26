@@ -34,11 +34,11 @@ Probability theory -> Distinction between mathematical and natural science. We a
 <b>Terminologies:</b> <br>
 <b>Probability Space:</b> All outcomes <br>
 <b>Event:</b> Some outcome(favourable) <br>
-<b>Probability:</b> (#favorable)/total events <br>
+<b>Probability:</b> (#favourable)/total events <br>
 
 3 types of distribution in probability: (Other than equally likely!) <br>
 1. Non-Uniform distributions <br>
-2. Unknow distributions <br>
+2. Unknown distributions <br>
 3. Continous distributions <br>
 
 <b>Probability cases:</b> <br>
