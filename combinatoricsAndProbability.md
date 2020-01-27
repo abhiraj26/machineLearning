@@ -88,3 +88,16 @@ E(f+g) = E(3.5) + E(3.5) // For each dice, so expectation is 7.  <br>
  
 **From Expectation to probability**</br> 
 <b>Markov's Inequality:</b> Suppose that f is a non negative random variable. Then for any number a>0 we have <b>P[f>=a] <= E[f]/a</b> <br>
+
+
+<h2><b>Module 6 coverage: </b></h2>
+Dice Game: 2 people played the game. The dice can have more than 6 numbers. The person with bigger number on the dice wins. The shaddy person lets you pick the dice first. The winning person gets 1$. <br>
+The game works with the trick that any dice you choose there will be dice with more winning probability with some other dice as dice numbers can be arranged like that. <br> 
+It is a random variable and law of transitivty doesn't hold. <br>
+So the shady person will win in long run by letting you pick the dice first. <br>
+
+Project Description: Given a set of dices, play a dice game with this set. You have to decide who chooses to go first you or your opponent. Then you play against the opponent provided by us. Both of you pick your dices. The throws of the chosen dices are simulated many times. Your goal is to win as many games as possible. <br>
+
+You pick the dice first if your dice is better than all others otherwise you let the second person picks the dice first and choose accordingly. <br>
+
+**Certificate:** https://www.coursera.org/account/accomplishments/certificate/9CY78HWSMVY3 
