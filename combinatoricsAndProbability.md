@@ -21,8 +21,9 @@ nC1 + nC3 + ... = nc0 + nC2 + ..   <br>
             Ordered   | (Tuples) n^k         |   (Permutations) nPk  
             Unordered | (k+n-1) C (n-1)      |   (Combinations) nCk  
 
-Combinations With repetitions: (k+n-1)C(n-1) , n -> number of things to place, k-> total size, so (n-1) delimiter. <br> 
-Suppose there are 3 items to be placed on a rack of 10. n = 3, k=10 (Repetitions allowed). So you will mark (n-1) 2 delimiters extra and add it to k positions. Now you simply have to choose these (n-1) delimiters positions in these n+k-1 options. 
+Combinations With repetitions: (k+n-1)C(n-1) , n -> number of things to place, k-> total length. <br>
+We need to fill k places, from n objects which can be repeated several times. We will add n-1 delimiters distinguishing k objects and to separate out different n objects. Now by simply choosing the (n-1) out of these (n-1+k) we will get different ways in which the n objects combinations has been chosen. <br>
+Suppose there are 3 items to be placed on a rack of 10. n = 3, k=10 (Repetitions allowed). So you will mark 2 delimiters and add it to k positions. Now you simply have to choose these 2 delimiters positions in these 12 options. 
 
 <h2><b> Module 4 coverage: </b></h2>
 <br> Probability
